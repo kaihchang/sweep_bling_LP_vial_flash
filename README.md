@@ -2,6 +2,9 @@
 This is my first time making my own split keyboard from open-source files. Edited and ordered PCB and components myself.
 Assembled a Ferris Sweep Bling LP with a pro micro. Flashed QMK first, then Vial.
 
+Cases and stands I re-designed from existing open files:
+https://www.printables.com/model/622201-ferris-sweep-case-and-10deg-tenting-stand-with-8mm?fbclid=IwAR07s64uIUs7jOLBMwF3K2EaUUG40ajo3HLXBgvw9KoK-EPsV4o8vXuPs4k
+
 How I ordered components:
 1. get kicad file from https://github.com/davidphilipbarr/Sweep
 2. edit however you like, generate gerber, and order from JLCPCB, or any other PCB manufacturers.
