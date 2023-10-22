@@ -3,8 +3,8 @@ This is my first time making my own split keyboard from open-source files. Edite
 Assembled a Ferris Sweep Bling LP with a pro micro. Flashed QMK first, then Vial.
 
 How I ordered components:
-1. get kad file from https://github.com/davidphilipbarr/Sweep
-2. edit however you like and order from JLCPCB, or any other PCB manufacturers.
+1. get kicad file from https://github.com/davidphilipbarr/Sweep
+2. edit however you like, generate gerber, and order from JLCPCB, or any other PCB manufacturers.
 3. shop everything else from Taobao.
    $15 for 40 switches: https://item.taobao.com/item.htm?spm=a21n57.1.0.0.78b8523c7g3Dys&id=712811327709&ns=1&abbucket=12#detail
    https://i.imgur.com/ZGDLOpG.png
