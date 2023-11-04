@@ -9,19 +9,10 @@ Cases and stands I re-designed from existing open files:
 https://www.printables.com/model/622201-ferris-sweep-case-and-10deg-tenting-stand-with-8mm?fbclid=IwAR07s64uIUs7jOLBMwF3K2EaUUG40ajo3HLXBgvw9KoK-EPsV4o8vXuPs4k
 
 Keymap I use:
+
 ![ferris_sweep_keymap](https://github.com/kaihchang/things_you_need_to_make_sweep_bling_LP/assets/43580584/e1379be6-1831-49a4-9fe9-f4785420586b)
 
 How I ordered components:
 1. get kicad file from https://github.com/davidphilipbarr/Sweep
 2. edit however you like, generate gerber, and order from JLCPCB, or any other PCB manufacturers.
 3. shop everything else from Taobao.
-   $15 for 40 switches: https://item.taobao.com/item.htm?spm=a21n57.1.0.0.78b8523c7g3Dys&id=712811327709&ns=1&abbucket=12#detail
-   https://i.imgur.com/ZGDLOpG.png
-   
-   $6 for 2 MCUs: https://item.taobao.com/item.htm?spm=a21n57.1.0.0.78b8523c7g3Dys&id=597619913897&ns=1&abbucket=12#detail
-   https://i.imgur.com/CK9JZQP.png
-   
-   $2.8 for 40 sockets: https://item.taobao.com/item.htm?spm=a21n57.1.0.0.78b8523c7g3Dys&id=595850038767&ns=1&abbucket=12#detail
-   https://i.imgur.com/kZ9pMyM.png
-   
-   Plus PCB for $4 and TRRS stuffs at local shop here (it was around $5 in total), the whole thing should cost about $33.
