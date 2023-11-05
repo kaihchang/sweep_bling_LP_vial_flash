@@ -10,7 +10,8 @@ Cases and stands I re-designed from existing open files:
 https://www.printables.com/model/622201-ferris-sweep-case-and-10deg-tenting-stand-with-8mm?fbclid=IwAR07s64uIUs7jOLBMwF3K2EaUUG40ajo3HLXBgvw9KoK-EPsV4o8vXuPs4k
 
 Keymap I use:
-https://i.imgur.com/DzI9PoH.png
+
+https://i.imgur.com/DzI9PoH.png 
 
 How I ordered components:
 1. get kicad file from https://github.com/davidphilipbarr/Sweep
