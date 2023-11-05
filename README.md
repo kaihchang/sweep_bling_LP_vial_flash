@@ -3,7 +3,7 @@ This is my first time making my own split keyboard from open-source files. Edite
 Assembled a Ferris Sweep Bling LP with a pro micro. Flashed QMK first, then Vial.
 
 Vial available:
-https://i.imgur.com/h17Jl4y.jpg
+![image](https://i.imgur.com/h17Jl4y.jpg)
 
 ZMK version (currently private):
 https://github.com/kaihchang/zmk-config 
@@ -13,7 +13,8 @@ Later I got 2 nice!nano compatible boards (Pro Micro nRF52840 they're called). I
 Cases and stands I re-designed from existing open files: 
 https://www.printables.com/model/622201-ferris-sweep-case-and-10deg-tenting-stand-with-8mm?fbclid=IwAR07s64uIUs7jOLBMwF3K2EaUUG40ajo3HLXBgvw9KoK-EPsV4o8vXuPs4k 
 
-Keymap I use: https://i.imgur.com/DzI9PoH.png 
+Keymap I use:
+![image](https://i.imgur.com/DzI9PoH.png)
 
 How I ordered components:
 1. get kicad file from https://github.com/davidphilipbarr/Sweep. I went for Sweep Bling LP, but if given another chance, I'd do Sweep half swept to save costs and get pretty much the exact same functionalities.
