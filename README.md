@@ -1,5 +1,5 @@
 # sweep_bling_LP_vial_flash
-This is my first time making my own split keyboard from open-source files. Edited and ordered PCB and components myself. I chose to go with Pro Micros, but on hindsight I probably should have went for RP2040 versions, but I didn't aim high at the time. Still, I should have went straight for nice!nanos.
+This is my first time making my own split keyboard from open-source files. Edited and ordered PCB and components myself. I chose to go with Pro Micros. On hindsight I probably should have went for RP2040 versions, but I didn't aim high at the time. Still, I should have went straight for nice!nanos.
 Assembled a Ferris Sweep Bling LP with a pro micro. Flashed QMK first, then Vial.
 
 ZMK version (currently private):
